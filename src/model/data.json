@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "city":"Tashkent", 
+        "degree":5, 
+        "wind speed":3, 
+        "climate":"rain"
+    }, 
+    {
+        "id":2,
+        "city":"Andijon", 
+        "degree":0, 
+        "wind speed":1, 
+        "climate":"snow"
+    }, 
+    {
+        "id":3,
+        "city":"Samarqand", 
+        "degree":1, 
+        "wind speed":2, 
+        "climate":"cloudy"
+    },
+    {
+        "id":4,
+        "city":"Qoraqalpog'iston", 
+        "degree":-10, 
+        "wind speed":10, 
+        "climate":"snow and storm"
+    }
+]
